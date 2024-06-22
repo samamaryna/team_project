@@ -1,4 +1,4 @@
-# PR description
+# PR description (Ying Li)
 This PR integrates the WHO Life Expectancy dataset into the project and introduces a regression analysis script. The script is designed to predict life expectancy based on various health and socio-economic indicators.
 
 ### Changes Made
