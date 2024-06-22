@@ -43,6 +43,8 @@ Responsibilities: Creating visual representations of data trends, model diagnost
 Team Member: Tetiana Nurkanova
 Responsibilities: Evaluating the model’s performance using metrics such as R-squared, Mean Absolute Error (MAE), and Residual Plots. Checking for overfitting and ensuring the model’s generalizability.
 
+https://drive.google.com/file/d/1sK6Nqmq561hZ6UagS-w-yuC00pwAlDlH/view?usp=sharing
+
 
 ### Workflow and Collaboration
 **Communication:** Regular Zoom meetings were held to discuss progress, challenges, and next steps.
