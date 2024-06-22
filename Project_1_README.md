@@ -35,7 +35,11 @@ Responsibilities: Selecting the appropriate features, building and optimizing th
 
 **Plotting and Visualization:**
 
+<<<<<<< HEAD
 Team Member: Yinglin Zhang   link: https://drive.google.com/file/d/1LWXEmv8EunUQvL8qU2mlFtBIJOqNQG87/view?usp=drive_link
+=======
+Team Member: Yinglin Zhang
+>>>>>>> 5dd9cc67b093dad9fdfbf82b9fb29e886717862c
 Responsibilities: Creating visual representations of data trends, model diagnostics, and results to effectively communicate the insights drawn from the analysis.
 
 **Model Evaluation:**
