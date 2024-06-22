@@ -14,9 +14,13 @@ Welcome to our Life Expectancy Analysis Project. Our team has undertaken the tas
 
 ### Project Objectives
 **Data Preparation:** Clean and preprocess the dataset to make it suitable for regression analysis.
+
 **Regression Modelling:** Develop and fine-tune a multiple regression model to understand the relationship between various factors and life expectancy.
+
 **Plotting and Visualization:** Create insightful visualizations to illustrate the findings and support the analysis.
+
 **Model Evaluation:** Assess the performance and reliability of the regression model using appropriate evaluation metrics.
+
 
 
 ### Team Approach
@@ -46,8 +50,11 @@ Responsibilities: Evaluating the model’s performance using metrics such as R-s
 
 ### Workflow and Collaboration
 **Communication:** Regular Zoom meetings were held to discuss progress, challenges, and next steps.
+
 **Code Quality:** We emphasized frequent code commenting to ensure clarity and facilitate understanding for all team members and future users.
+
 **Documentation:** Each part of the project is well-documented, detailing the process, methods used, and findings.
+
 
 
 **To maintain a productive and respectful working environment, our team established the following rules:**
