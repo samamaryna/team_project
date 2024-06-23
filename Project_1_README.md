@@ -70,3 +70,7 @@ Code Quality: Ensure that code is clean, well-commented, and adheres to our proj
 This project represents a collaborative effort to understand the factors affecting life expectancy through a comprehensive data analysis and modeling approach. 
 
 For any questions or further information, feel free to contact any of the team members through our GitHub profiles.
+
+
+### Video Link
+Ying Li's video https://drive.google.com/file/d/1WFZHxm5MSDpyXublUC2fFgSPDos7UF-9/view?usp=drivesdk
