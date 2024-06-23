@@ -14,9 +14,13 @@ Welcome to our Life Expectancy Analysis Project. Our team has undertaken the tas
 
 ### Project Objectives
 **Data Preparation:** Clean and preprocess the dataset to make it suitable for regression analysis.
+
 **Regression Modelling:** Develop and fine-tune a multiple regression model to understand the relationship between various factors and life expectancy.
+
 **Plotting and Visualization:** Create insightful visualizations to illustrate the findings and support the analysis.
+
 **Model Evaluation:** Assess the performance and reliability of the regression model using appropriate evaluation metrics.
+
 
 
 ### Team Approach
@@ -43,13 +47,16 @@ Responsibilities: Creating visual representations of data trends, model diagnost
 Team Member: Tetiana Nurkanova
 Responsibilities: Evaluating the model’s performance using metrics such as R-squared, Mean Absolute Error (MAE), and Residual Plots. Checking for overfitting and ensuring the model’s generalizability.
 
-https://drive.google.com/file/d/1sK6Nqmq561hZ6UagS-w-yuC00pwAlDlH/view?usp=sharing
+
 
 
 ### Workflow and Collaboration
 **Communication:** Regular Zoom meetings were held to discuss progress, challenges, and next steps.
+
 **Code Quality:** We emphasized frequent code commenting to ensure clarity and facilitate understanding for all team members and future users.
+
 **Documentation:** Each part of the project is well-documented, detailing the process, methods used, and findings.
+
 
 
 **To maintain a productive and respectful working environment, our team established the following rules:**
@@ -65,3 +72,11 @@ Code Quality: Ensure that code is clean, well-commented, and adheres to our proj
 This project represents a collaborative effort to understand the factors affecting life expectancy through a comprehensive data analysis and modeling approach. 
 
 For any questions or further information, feel free to contact any of the team members through our GitHub profiles.
+
+
+### Video Link
+Ying Li's video https://drive.google.com/file/d/1WFZHxm5MSDpyXublUC2fFgSPDos7UF-9/view?usp=drivesdk
+Maryna Kostiuk video https://drive.google.com/file/d/1zL6VqtE2nWeagkzvdNK0yQeTgihu43T4/view?usp=sharing
+Yinglin Zhang video https://drive.google.com/file/d/1LWXEmv8EunUQvL8qU2mlFtBIJOqNQG87/view?usp=drive_link
+Tetiana Nurkanova video https://drive.google.com/file/d/1sK6Nqmq561hZ6UagS-w-yuC00pwAlDlH/view?usp=sharing
+
