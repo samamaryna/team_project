@@ -48,6 +48,8 @@ Team Member: Tetiana Nurkanova
 Responsibilities: Evaluating the model’s performance using metrics such as R-squared, Mean Absolute Error (MAE), and Residual Plots. Checking for overfitting and ensuring the model’s generalizability.
 
 
+
+
 ### Workflow and Collaboration
 **Communication:** Regular Zoom meetings were held to discuss progress, challenges, and next steps.
 
@@ -76,4 +78,5 @@ For any questions or further information, feel free to contact any of the team m
 Ying Li's video https://drive.google.com/file/d/1WFZHxm5MSDpyXublUC2fFgSPDos7UF-9/view?usp=drivesdk
 Maryna Kostiuk video https://drive.google.com/file/d/1zL6VqtE2nWeagkzvdNK0yQeTgihu43T4/view?usp=sharing
 Yinglin Zhang video https://drive.google.com/file/d/1LWXEmv8EunUQvL8qU2mlFtBIJOqNQG87/view?usp=drive_link
+Tetiana Nurkanova video https://drive.google.com/file/d/1sK6Nqmq561hZ6UagS-w-yuC00pwAlDlH/view?usp=sharing
 
