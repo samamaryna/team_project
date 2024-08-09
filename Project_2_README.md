@@ -1,4 +1,4 @@
-# Life Expectancy Analysis Project
+# Airline Passenger Satisfaction
 Team #27: Maryna Kostiuk, Ying Li, Yinglin Zhang, Tetiana Nurkanova
 
 
@@ -16,18 +16,8 @@ We hope that with the answers to this questions the airline company can improve 
 
 Unfortunately, the data source doesn't provide any information about the collection of data, sampling methods, and other details. We also couldn't find this information online. 
 
-This project applies skills from the following previous modules:
 
-* Introduction to Building Software (Shell, Git, Python)
-* SQL
-* Applying Statistical Concepts (Linear regression, classification, and resampling
-* Scaling to Production
-* Visualization (Data Science Certificate)
-* Sampling (Data Science Certificate)
-* Algorithm & Data Structures (Machine Learning Software Foundations Certificate)
-* Deep Learning (Machine Learning Software Foundations Certificate)
-
-## Learning Outcomes
+### Learning Outcomes
 By the end of the team project, participants will be able to either:
 * Create a data visualization as a team
 
@@ -57,15 +47,15 @@ Team Member: Tetiana Nurkanova
 
 
 **Analyzing and creating outcome visualization for the next questions:**
-- 
+- Which factors contribute to customer satisfaction the most? What about dissatisfaction?
 
 Team Member: Ying Li
 
 **Analyzing and creating outcome visualization for the next questions:**
-- 
+- Does flight distance affect customer preferences or flight patterns? 
+- How does the flight distance affect passenger satisfaction, and does the departure delay/arrival delay impact their satisfaction?
 
 Team Member: Yinglin Zhang
-
 
 
 
