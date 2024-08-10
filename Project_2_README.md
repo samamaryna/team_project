@@ -90,5 +90,5 @@ Maryna Kostiuk video
 
 Yinglin Zhang video 
 
-Tetiana Nurkanova video 
+Tetiana Nurkanova video https://drive.google.com/file/d/1Bo05nG0eUMuhANKwNBbXPKQmSBn96VI8/view?usp=sharing
 
