@@ -86,7 +86,7 @@ For any questions or further information, feel free to contact any of the team m
 ### Video Link
 Ying Li's video https://drive.google.com/file/d/1Bl436QCTYT4p6yJ5joH8jc3qC-ENCODq/view?usp=drivesdk
 
-Maryna Kostiuk video 
+Maryna Kostiuk video https://drive.google.com/file/d/1F13KlhCihAWl1EfZeiLHepV1sVmviFwy/view?usp=drive_link
 
 Yinglin Zhang video 
 
