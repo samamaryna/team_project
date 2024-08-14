@@ -88,7 +88,7 @@ Ying Li's video https://drive.google.com/file/d/1Bl436QCTYT4p6yJ5joH8jc3qC-ENCOD
 
 Maryna Kostiuk video https://drive.google.com/file/d/1F13KlhCihAWl1EfZeiLHepV1sVmviFwy/view?usp=drive_link
 
-Yinglin Zhang video 
+Yinglin Zhang video https://drive.google.com/file/d/1Dx-KZML9e4cCOJOyqM0rMAdWmWXIic56/view?usp=drive_link
 
 Tetiana Nurkanova video https://drive.google.com/file/d/1Bo05nG0eUMuhANKwNBbXPKQmSBn96VI8/view?usp=sharing
 
